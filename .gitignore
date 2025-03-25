@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment variables
+.env
+.env.development
+.env.production
+.env.test
+
+# Database dumps
+*.sql
+*.sqlite
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Jest test coverage
+coverage/
+jest/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
